@@ -1,0 +1,32 @@
+#title {
+    font-family: Brush Script MT, cursive;
+    text-align: center; 
+}
+h1 {
+    font-family: Brush Script MT, cursive;
+    
+}
+
+.pupContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pupItem {
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 1rem;
+
+}
+
+#singleDog {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}
